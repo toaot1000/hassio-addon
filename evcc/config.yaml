@@ -3,7 +3,7 @@ name: evcc 0.130.7
 version: 0.130.7
 slug: evcc
 description: EV Charge Controller!
-url: https://github.com/toaot1000/hassio-addon-0.130.7
+url: https://github.com/toaot1000/hassio-addon-0.130.7/evcc
 arch: 
   - armhf
   - armv7
